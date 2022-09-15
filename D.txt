@@ -1,1 +1,2 @@
-Statements :abc abc abc[14:25]
+Statements :abc abc abc[14:23]
+statement: the sun rise in east [14:28]
